@@ -1,0 +1,1 @@
+Este projeto está voltado para os desafios do site "LeetCode" onde coloco as minhas soluções para cada desafio que eu já realizei nesta plataforma.
